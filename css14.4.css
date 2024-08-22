@@ -1,0 +1,43 @@
+body{background-color: rgb(102, 176, 224);
+    
+}
+h1{text-align: center;
+font-family: Cambria;
+color: bisque;
+}
+p{text-align: justify;
+font-family: Cambria;
+font-size: 24px;
+color: bisque;
+}
+ul{background-position: center;
+font-size: 19px;
+font-family: Cambria;
+color: bisque;
+text-align: justify;
+}
+article{background-color: rgba(190, 228, 230, 0.356);
+justify-content: space-around;
+display: flex;
+}
+img{width: 300px;
+height: 250px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+footer{width: auto;
+display: flex;
+}
+#t{font-size: 28px;
+font-family: cambria;
+color: bisque;
+text-align: center;
+}
+a{font-size: 28px;
+font-family: cambria;
+color: bisque;
+text-align: center;
+}
+a:hover{color: rgb(37, 103, 146);
+font-size: 38px;
+}

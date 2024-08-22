@@ -1,0 +1,54 @@
+main{width: auto;
+border-radius: 20px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+background-image: linear-gradient(#a2d7f7,#5ca7e4, #4686c2);
+padding-top: 20px;
+padding-bottom: 20px;
+}
+h1{text-align: center;
+font-size: 60px;
+font-family: cambria;
+color: bisque;
+}
+#div-poluicao{height: auto;
+width: 250px;
+background-color: rgb(164, 185, 226);
+border-radius: 20px;
+}
+#div-poluicao1{height: auto;
+width: 250px;
+background-color: rgb(164, 185, 226);
+border-radius: 20px;
+}
+#div-poluicao2{height: auto;
+width: 250px;
+background-color: rgb(164, 185, 226);
+border-radius: 20px;
+}
+#div-poluicao3{height: auto;
+width: 250px;
+background-color: rgb(164, 185, 226);
+border-radius: 20px;
+}
+#div-poluicao4{height: auto;
+width: 250px;
+background-color: rgb(164, 185, 226);
+border-radius: 20px;
+}
+h2{font-size:36px;
+font-family: cambria;
+color: bisque;
+text-align: center;
+}
+p{font-size: 20px;
+font-family: cambria;
+color: bisque;
+text-align: center;
+}
+img {height: 200px;
+width: 190px;
+padding-left: 26px;
+padding-top:10px ;
+}

@@ -1,0 +1,23 @@
+body{background-image: linear-gradient(#4e84b6b2, #6cc0cf);
+}
+img{margin-top: 10px;
+margin-right: 20px;
+height: 180px;
+border-radius: 20px;  
+width: 200px;
+}
+div{margin-top: 10px;
+display: flex;
+flex-direction: row;
+background-color: #50a7f3e1 ;
+border-radius: 20px;
+}
+h1{font-family: cambria;
+color: bisque;
+text-align: center;
+}
+p{font-family: cambria;
+font-size: 20px;
+color:bisque;
+text-align: justify;
+}
